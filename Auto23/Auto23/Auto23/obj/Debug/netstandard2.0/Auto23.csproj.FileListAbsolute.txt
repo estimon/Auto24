@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\bin\Debug\netstandard2.0\Auto23.deps.json
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\bin\Debug\netstandard2.0\Auto23.dll
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\bin\Debug\netstandard2.0\Auto23.pdb
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\Auto23.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\Auto23.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\Auto23.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\Auto23.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\Auto23.dll
+C:\Users\opilane\source\repos\Auto23\Auto23\Auto23\obj\Debug\netstandard2.0\Auto23.pdb
